@@ -11,4 +11,3 @@ Potential build frameworks are:
   + [Bootstrap](http://getbootstrap.com)
   + [Semantic UI](http://semantic-ui.com)
   + [Jekyll](https://jekyllrb.com)
-  + [Electron](http://electron.atom.io)
