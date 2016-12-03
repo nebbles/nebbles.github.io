@@ -1,4 +1,4 @@
-# [🔗 bengreenberg.uk](http://bengreenberg.uk)
+# [🔗☍ bengreenberg.uk](http://bengreenberg.uk)
 
 ### Personal information
 I am a London based student of Design Engineering MEng at Imperial College's Dyson School of Design Engineering. This website aims to provide an online profile of my academic and professional work through an interactive portfolio.
