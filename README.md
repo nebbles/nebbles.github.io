@@ -1,13 +1,12 @@
-# [nebbles.github.io](http://nebbles.github.io)
+# [🔗 bengreenberg.uk](http://bengreenberg.uk)
 
-Portfolio page.
+### Personal information
+I am a London based student of Design Engineering MEng at Imperial College's Dyson School of Design Engineering. This website aims to provide an online profile of my academic and professional work through an interactive portfolio.
 
-DNS host likely to be **www.godaddy.com**
-
-Target domain name is **bengreenberg.uk**
-
-Potential build frameworks are:
-  + [Yeoman](http://yeoman.io)
+### Technical Details
+DNS host: **www.godaddy.com**  
+Build frameworks are:
   + [Bootstrap](http://getbootstrap.com)
-  + [Semantic UI](http://semantic-ui.com)
   + [Jekyll](https://jekyllrb.com)
+  + [Semantic UI](http://semantic-ui.com)
+  + [Yeoman](http://yeoman.io)
