@@ -1,0 +1,14 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//Mac OS X 10.12.6//EN
+N:Greenberg;Ben;;;
+FN:Ben Greenberg
+EMAIL;type=INTERNET;type=HOME;type=pref:bsdgreenberg@gmail.com
+EMAIL;type=INTERNET;type=WORK:bsg115@ic.ac.uk
+TEL;type=CELL;type=VOICE;type=pref:+44 (0) 7969 159447
+TEL;type=OTHER;type=VOICE:+852 9535 7682
+item1.URL;type=pref:bengreenberg.uk
+item1.X-ABLabel:_$!<HomePage>!$_
+UID:325404f1-3228-40cd-ba88-b21aa7d6cadf
+X-ABUID:43CE7BE5-A766-4682-B4C9-8E8C0ABDCC02:ABPerson
+END:VCARD
